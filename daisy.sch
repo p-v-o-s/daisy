@@ -16479,6 +16479,10 @@ Real time clock (RTC) with battery backup ability. Talk to it via i2c</descripti
 <wire x1="182.88" y1="25.4" x2="182.88" y2="27.94" width="0.1524" layer="91"/>
 <pinref part="U$13" gate="G$1" pin="GND"/>
 <wire x1="182.88" y1="27.94" x2="187.96" y2="27.94" width="0.1524" layer="91"/>
+<junction x="182.88" y="17.78"/>
+<junction x="182.88" y="22.86"/>
+<junction x="182.88" y="25.4"/>
+<junction x="182.88" y="27.94"/>
 </segment>
 <segment>
 <pinref part="IC4" gate="G$1" pin="GND"/>

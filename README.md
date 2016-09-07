@@ -42,6 +42,10 @@ Bottom:
 
 # remote w/ display
 
+Replaces LEDs with a 128x32 OLED display from Adafruit:
+
+<img src="oled_128x32.jpg">
+
 Top:
 
 <img src="daisy_remote_display_bottom_render.png">

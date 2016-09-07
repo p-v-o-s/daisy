@@ -4,7 +4,7 @@
 
 <img src="deploy.png">
 
-## datalogger
+# datalogger
 <img src="daisy_top_render.png">
 
 <img src="daisy_bottom_render.png">
@@ -17,7 +17,8 @@
 - RJ45 connector for 8-wire CAT-5,6,7 cable
 - pin headers allow for patching RJ45 to digital / analog / power / ground
 - JST header for battery power (or use remote)
-## remote
+
+# remote
 
 <img src="daisy_remote_top_render.png">
 

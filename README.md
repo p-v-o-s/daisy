@@ -5,7 +5,12 @@
 <img src="deploy.png">
 
 # datalogger
+
+Top:
+
 <img src="daisy_top_render.png">
+
+Bottom:
 
 <img src="daisy_bottom_render.png">
 
@@ -20,7 +25,11 @@
 
 # remote
 
+Top:
+
 <img src="daisy_remote_top_render.png">
+
+Bottom:
 
 <img src="daisy_remote_bottom_render.png">
 

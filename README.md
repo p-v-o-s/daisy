@@ -1,5 +1,8 @@
 #daisy
 
+## arrangement
+
+<img src="deploy.png">
 
 ## datalogger
 <img src="daisy_top_render.png">

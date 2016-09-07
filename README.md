@@ -40,6 +40,17 @@ Bottom:
 - 2 momentary buttons connected to ethernet pins 4,5 (if placed)
 - mounting holes 
 
+# remote w/ display
+
+To hook up [Adafruit OLED display](https://www.adafruit.com/products/931):
+
+- 3.3V  OLED VIN.
+- GND to OLED ground (GND).
+- I2C SCL (A5) to OLED SCL.
+- I2C SDA (A4) to OLED SDA.
+- digital 4 to OLED RST.
+
+
 # ref
 
 http://pinouts.ru/NetworkCables/ethernet_10_100_1000_pinout.shtml

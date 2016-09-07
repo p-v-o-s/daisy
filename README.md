@@ -1,9 +1,12 @@
-# daisy
+#daisy
 
 
+## datalogger
 <img src="daisy_top_render.png">
 
 <img src="daisy_bottom_render.png">
+
+## remote
 
 <img src="daisy_remote_top_render.png">
 

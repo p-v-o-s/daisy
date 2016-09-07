@@ -44,7 +44,7 @@ Bottom:
 
 Replaces LEDs with a 128x32 OLED display from Adafruit:
 
-<img src="oled_128x32.jpg">
+<img src="oled_128x32.jpg" width=300 >
 
 Top:
 

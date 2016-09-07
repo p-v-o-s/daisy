@@ -42,6 +42,14 @@ Bottom:
 
 # remote w/ display
 
+Top:
+
+<img src="daisy_remote_display_bottom_render.png">
+
+Bottom:
+
+<img src="daisy_remote_display_top_render.png">
+
 To hook up [Adafruit OLED display](https://www.adafruit.com/products/931):
 
 - 3.3V  OLED VIN.
@@ -49,7 +57,7 @@ To hook up [Adafruit OLED display](https://www.adafruit.com/products/931):
 - I2C SCL (A5) to OLED SCL.
 - I2C SDA (A4) to OLED SDA.
 - digital 4 to OLED RST.
-
+- these pins are marked on the remote-display board.  Proper relevant patching must be done on the logger, to match.
 
 # ref
 
